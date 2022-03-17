@@ -1,0 +1,5 @@
+*, *::after, *::before {
+    box-sizing: border-box;
+    font-family: 'poppins', 'Arial Narrow', Arial, sans-serif;
+    font-weight: normal;
+}
